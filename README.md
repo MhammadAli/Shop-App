@@ -1,6 +1,6 @@
-# Shop Application
+# Cart Crashers Application
 
-Welcome to the **Shop Application**, a modern e-commerce app built with Flutter. This application provides users with a seamless shopping experience, offering user registration, login, product browsing, and category-based filtering. The app is fully integrated with an API to manage user authentication, product data, and user preferences.
+Welcome to the **Cart Crashers Application**, a modern e-commerce app built with Flutter. This application provides users with a seamless shopping experience, offering user registration, login, product browsing, and category-based filtering. The app is fully integrated with an API to manage user authentication, product data, and user preferences.
 
 ## Features
 
